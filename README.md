@@ -144,3 +144,16 @@ CREATE TABLE Maintenance (
 CREATE INDEX idx_student_route ON Student(route_id);
 CREATE INDEX idx_teacher_route ON Teacher(route_id);
 CREATE INDEX idx_schedule_day_bus ON Bus_Schedule(day_of_week, bus_id);
+
+
+## 👥 Contributors:
+
+This project was developed by:
+
+1. MD Emon Sarkar - @itsemon007
+
+2. Farjana Hoque Remo - @farzanahoque430
+
+3. Showrov Shahriar Pran - @ShowrovShahariar
+
+4. Sidratul Montaha Ayshi - @Ayshi32
