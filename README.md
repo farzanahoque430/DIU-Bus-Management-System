@@ -1,6 +1,6 @@
 # DIU Bus Management System
 
-A database-driven, web-ready system to organize university transportation—covering routes, buses, seating, schedules, and maintenance.
+A database-driven, web-ready system to organize university transportation covering routes, buses, seating, schedules, and maintenance.
 
 > Built for the Database Management System course (Course Code: 0612-303) at Dhaka International University.
 
